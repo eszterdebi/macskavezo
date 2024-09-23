@@ -1,0 +1,11 @@
+Espresso;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend lacinia ante.;790
+Lungo;Phasellus in aliquet justo, vel convallis ante. Nulla tempor diam at mi feugiat.;790
+Cappuccino;Suspendisse accumsan, sem vitae feugiat euismod, magna magna vehicula nibh, semper imperdiet velit mi ac.;1290
+Caffé latte;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo ex, maiores omnis temporibus.;1290
+Macchiato;Proin auctor at purus nec fermentum. Nullam sagittis, metus sed lobortis mattis, dui magna.;1190
+Americano;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia voluptatem neque reprehenderit ipsam, eveniet eum.;1190
+Frappuccino;Pellentesque tincidunt euismod odio eu egestas. Praesent sit amet iaculis dolor.;1590
+Mokka;Aliquam a tortor nisi. Phasellus ultrices finibus mi nec hendrerit. Aliquam sagittis libero vitae imperdiet tincidunt.;1590
+Dalgona kávé;Maecenas ligula ex, ultricies ut magna tempus, blandit laoreet massa. Donec vel tempor tellus.;1650
+Affogato;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea, perferendis.;1590
+Ír kávé;Duis quis consequat libero. Quisque pharetra vitae lacus quis viverra. Donec odio justo, porta quis massa vitae.;1950

@@ -1,0 +1,12 @@
+Tejcsokis forró csoki;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porttitor maximus mi.;1150
+Fehércsokis forró csoki;Curabitur eu nunc libero. Cras eu eleifend magna. Vestibulum scelerisque metus ut dolor auctor.;1290
+Étcsokis forró csoki;In pellentesque magna ac lectus auctor euismod. Donec at mi vel nisi maximus mattis. Pellentesque eleifend, dui eu.;1290
+Limonádé;Vivamus facilisis viverra dui, consectetur molestie ante dapibus vitae. Aenean vel metus risus.;950
+Naturaqua szénsavmentes ásványvíz;Vivamus vehicula laoreet nisl non porta.;390
+Naturaqua szénsavas ásványvíz;Vivamus vehicula laoreet nisl non imperdiet porta.;390
+Coca-Cola;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed semper nisl.;590
+Fanta Narancs;In vulputate condimentum eleifend. Nullam vitae ligula ornare, mollis lorem nec, laoreet leo.;590
+Fanta Szőlő;Nulla bibendum velit odio. Phasellus dolor tellus, molestie non mauris quis, aliquam maximus risus.;590
+Sprite;Quisque volutpat varius posuere. Aliquam nec viverra quam, sed viverra urna.;590
+Kinley Ginger Ale;Nunc sit amet tristique enim. Aenean consequat arcu vitae nulla suscipit blandit.;590
+Kinley Tonic Water;Praesent laoreet venenatis nibh in vestibulum. Aenean commodo leo scelerisque.;590

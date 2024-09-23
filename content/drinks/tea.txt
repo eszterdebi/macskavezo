@@ -1,0 +1,9 @@
+Fekete tea;Fusce ac ligula malesuada, consectetur metus vitae, pharetra enim, sed dapibus.;790
+Zöld tea;Phasellus est eros, facilisis in nunc eu, dignissim semper dui. Morbi in malesuada erat.;1150
+Jázmin tea;Nunc vulputate erat eget sem sodales, placerat laoreet augue blandit. Ut quis lacus hendrerit, pharetra diam id.;1150
+Chai tea;Vivamus ut ipsum vehicula, accumsan sapien sed, consequat erat. Suspendisse accumsan.;1490
+Matcha tea;Sed consectetur, diam id sagittis eleifend, augue leo consequat justo, vitae suscipit urna urn.;1490
+Rooibos tea;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vestibulum non justo a mi ornare euismod ut sit amet enim.;1150
+Herba tea;Ut et magna nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.;1290
+Fehér tea;Etiam eu justo ac orci tristique volutpat quis ut dui. Morbi dapibus non elit a aliquam. Vestibulum ante ipsum primis.;1150
+Kék tea;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius iaculis orci at dapibus. Duis condimentum rutrum gravida.;1490
